@@ -1,0 +1,5 @@
+body{font-family: 'Poppins';}
+#title, #caption{font-family: 'PT Serif';}
+
+#caption{ writing-mode: vertical-rl;
+}
